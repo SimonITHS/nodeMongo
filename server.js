@@ -16,6 +16,6 @@ connect("mongodb+srv://simon:123admin@simonsapi.ebu7p.mongodb.net/products-API?r
 .then(() => {
     console.log("connected to mongo");
     app.listen(PORT, () => {
-        console.log("listening to meeee");
+        console.log("listening to 3000");
     });
 });
